@@ -13,6 +13,27 @@ import unittest
 # output: false
 
 
+#canPartition: ArrayOf(Natural) -> Boolean
+#Invariants: Natural >=0
+#Purpose: produce true if the set of numbers can be partitioned 
+#into two subsets that have the same sum. 
+#Produce false otherwise. 
+
+#stub
+def canPartition(arr):
+  return False
+
+
+
+#Examples and Tests:
+class TestSuite(unittest.TestCase):
+  def test_canPartition(self):
+    self.assertEqual(canPartition([1,5,11,5]), True)
+    self.assertEqual(canPartition([1,5,3]) , False)
+    self.assertEqual(canParition([1]), False)
+    self.assertEqual(canPartition([0,1]), False)
+    self.assertEqual(canPartition([1,1]), True)
+    self.assertEqual(canPartition([11, 3, 7, 1, 0, 5, 9, 2, 2]), True)
 
 
 
