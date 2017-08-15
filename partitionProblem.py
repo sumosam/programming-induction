@@ -20,9 +20,27 @@ import unittest
 #Produce false otherwise. 
 
 #stub
-def canPartition(arr):
-  return False
+#def canPartition(arr):
+#  return False
 
+
+def canPartition(arr):
+  #find the target of the array for each subset
+  total = sum(arr)
+  target = total/2
+  if (len(arr) < 2):
+    return False
+  return partition_helper(arr, len(arr)-1, target)
+
+
+
+#partition_helper: ArrayOf(Natural), ArrayIndex, Natural -> Boolean
+#Purpose: find out if array can be partitioned to equal a particular number. 
+#This will be done by seeing if we should "take the last element"
+
+#Stub:
+def partition_helper(arr, i, target):
+  return False
 
 
 #Examples and Tests:
@@ -34,6 +52,11 @@ class TestSuite(unittest.TestCase):
     self.assertEqual(canPartition([0,1]), False)
     self.assertEqual(canPartition([1,1]), True)
     self.assertEqual(canPartition([11, 3, 7, 1, 0, 5, 9, 2, 2]), True)
+
+  def test_partition_helper(self):
+    self.assertEqual(partition_helper([1,5,11,5],3, 11), True)
+    self.assertEqual(partition_helper([1,5,11], 2, 8.5), False)
+    self.assertEqual(partition_helper([2,3,3,4], 3, 6), True)
 
 
 
