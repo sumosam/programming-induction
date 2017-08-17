@@ -48,7 +48,10 @@ def partition_helper(arr, i, target):
   elif (i < 0 and target > 0):
     return False
   else:
-    return partition_helper(arr, i-1, target-arr[i]) or partition_helper(arr, i-1, target)
+    if (arr[i] > target):
+      return partition_helper(arr, i-1, target)
+    else:
+      return partition_helper(arr, i-1, target-arr[i]) or partition_helper(arr, i-1, target)
 
 
 
@@ -57,7 +60,7 @@ class TestSuite(unittest.TestCase):
   def test_canPartition(self):
     self.assertEqual(canPartition([1,5,11,5]), True)
     self.assertEqual(canPartition([1,5,3]) , False)
-    self.assertEqual(canParition([1]), False)
+    self.assertEqual(canPartition([1]), False)
     self.assertEqual(canPartition([0,1]), False)
     self.assertEqual(canPartition([1,1]), True)
     self.assertEqual(canPartition([11, 3, 7, 1, 0, 5, 9, 2, 2]), True)
