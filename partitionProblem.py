@@ -39,8 +39,17 @@ def canPartition(arr):
 #This will be done by seeing if we should "take the last element"
 
 #Stub:
+#def partition_helper(arr, i, target):
+#  return False
+
 def partition_helper(arr, i, target):
-  return False
+  if (target == 0):
+    return True
+  elif (i < 0 and target > 0):
+    return False
+  else:
+    return partition_helper(arr, i-1, target-arr[i]) or partition_helper(arr, i-1, target)
+
 
 
 #Examples and Tests:
