@@ -1,0 +1,23 @@
+
+
+CROSS PRODUCT OF TYPE COMMENTS TABLE
+
+                                    target
+                             0               Natural(>0)
+
+                                        |
+a   outOfArray               True       |      False
+r                         --------------------------------
+r   (arr[i]....arr[:i])      True       |      Box 4
+                                        |
+
+
+
+
+Box 4:
+
+partition_helper(arr, i-1, target-arr[i]) or 
+                              partition_helper(arr, i-1, target)
+
+
+
