@@ -21,23 +21,23 @@ The first problem that we will study with this approach is The Partition Problem
 
 [YouTube playlist that plays the following videos in the correct order.](https://youtu.be/MXkYb-2MAoo?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 1: Introduction: Goals (2:03)](https://youtu.be/MXkYb-2MAoo)
+[Part 1: Introduction: Goals (2:03)](https://youtu.be/MXkYb-2MAoo?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 2: The Partition Problem (1:50)](https://youtu.be/_JogB4OQuJo)
+[Part 2: The Partition Problem (1:50)](https://youtu.be/_JogB4OQuJo?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 3: Applying Mathematical Induction (12:39)](https://youtu.be/eimW1y78WEE)
+[Part 3: Applying Mathematical Induction (12:39)](https://youtu.be/eimW1y78WEE?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 4: Setting up tests for Partition Problem in Python (11:00)](https://youtu.be/G1PGLTD2xl4)
+[Part 4: Setting up tests for Partition Problem in Python (11:00)](https://youtu.be/G1PGLTD2xl4?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 5: The Partition Helper Function (13:47)](https://youtu.be/pyEZWvH7qPM)
+[Part 5: The Partition Helper Function (13:47)](https://youtu.be/pyEZWvH7qPM?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 6: Type Comments for the Partition Problem (17:00)](https://youtu.be/Zu9T7eAyDWg)
+[Part 6: Type Comments for the Partition Problem (17:00)](https://youtu.be/Zu9T7eAyDWg?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 7: Writing the Partition Helper Function (4:51)](https://youtu.be/DOcL5eNn28Y)
+[Part 7: Writing the Partition Helper Function (4:51)](https://youtu.be/DOcL5eNn28Y?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 8: Type Table to Function (8:59)](https://youtu.be/OE77BhSf8XM)
+[Part 8: Type Table to Function (8:59)](https://youtu.be/OE77BhSf8XM?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
-[Part 9: Dynamic Programming Approach (15:01)](https://youtu.be/UrV_PxL9KG0)
+[Part 9: Dynamic Programming Approach (15:01)](https://youtu.be/UrV_PxL9KG0?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
 Video lengths in parentheses (minutes). To align
 with your level of comprehension, please feel free to adjust the
