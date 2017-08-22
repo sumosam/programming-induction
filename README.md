@@ -17,20 +17,31 @@ The programming language we will use is Python as its syntax is accessible.
 
 ## The Partition Problem
 
-The first problem that we will study is The Partition Problem.
+The first problem that we will study with this approach is The Partition Problem.
+
+
+[Part 1: Introduction: Goals (2:03)](https://youtu.be/MXkYb-2MAoo)
+
+[Part 2: The Partition Problem (1:50)](https://youtu.be/_JogB4OQuJo)
+
+[Part 3: Applying Mathematical Induction (12:39)](https://youtu.be/eimW1y78WEE)
+
+[Part 4: Setting up tests for Partition Problem in Python (11:00)](https://youtu.be/G1PGLTD2xl4)
+
+[Part 5: The Partition Helper Function (13:47)](https://youtu.be/pyEZWvH7qPM)
+
+[Part 6: Type Comments for the Partition Problem (17:00)](https://youtu.be/Zu9T7eAyDWg)
+
+[Part 7: Writing the Partition Helper Function (4:51)](https://youtu.be/DOcL5eNn28Y)
+
+[Part 8: Type Table to Function (8:59)](https://youtu.be/OE77BhSf8XM)
+
+[Part 9: Dynamic Programming Approach (15:01)](https://youtu.be/UrV_PxL9KG0)
+
 Video lengths in parentheses (minutes). To align
 with your level of comprehension, please feel free to adjust the
 video a faster speed.  
 
-[Part 1: Introduction: Goals (2:03)](https://youtu.be/MXkYb-2MAoo)
-[Part 2: The Partition Problem (1:50)](https://youtu.be/_JogB4OQuJo)
-[Part 3: Applying Mathematical Induction (12:39)](https://youtu.be/eimW1y78WEE)
-[Part 4: Setting up tests for Partition Problem in Python (11:00)](https://youtu.be/G1PGLTD2xl4)
-[Part 5: The Partition Helper Function (13:47)](https://youtu.be/pyEZWvH7qPM)
-[Part 6: Type Comments for the Partition Problem (17:00)](https://youtu.be/Zu9T7eAyDWg)
-[Part 7: Writing the Partition Helper Function (4:51)](https://youtu.be/DOcL5eNn28Y)
-[Part 8: Type Table to Function (8:59)](https://youtu.be/OE77BhSf8XM)
-[Part 9: Dynamic Programming Approach (15:01)](https://youtu.be/UrV_PxL9KG0)
 
 ### Prerequisites
 
