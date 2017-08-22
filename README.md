@@ -40,7 +40,7 @@ The first problem that we will study with this approach is The Partition Problem
 
 Video lengths in parentheses (minutes). To align
 with your level of comprehension, please feel free to adjust the
-video a faster speed.  
+video to a faster speed.  
 
 
 ### Prerequisites
