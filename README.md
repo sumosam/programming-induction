@@ -96,7 +96,7 @@ Thanks to Geeks for Geeks for posting the problem, and code that I could cross r
 
 6. Great explanation of pseudo-polynomial time, that should be the wikipedia post, [here.](https://stackoverflow.com/questions/19647658/what-is-pseudopolynomial-time-how-does-it-differ-from-polynomial-time)
 
-Thanks to Victor Brett for posting his thoughts:
+Thanks to Bret Victor for posting his thoughts that influenced the way I see things:
 
 7. Bret Victor on ["Up and Down the Ladder of Abstraction"](http://worrydream.com/#!2/LadderOfAbstraction) This is where the analogy of maps and walking in a new city that I use in these videos comes from.
 
