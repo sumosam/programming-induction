@@ -54,6 +54,11 @@ A basic understanding of Python.
 
 The code to the Partiion Problem is included in this repository.
 
+partitionProblem.py - goes through recursive approach to the Partition Problem
+
+partitionProblemDP.py - is the Dynamic Programming approach to the problem
+
+crossProductTable - contains the Cross Product Table of Type Comments as well as the Type Comments for Array and Target
 
 ## Authors
 
