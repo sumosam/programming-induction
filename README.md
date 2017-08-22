@@ -19,6 +19,7 @@ The programming language we will use is Python as its syntax is accessible.
 
 The first problem that we will study with this approach is The Partition Problem.
 
+[YouTube playlist that plays the following videos in the correct order.](https://youtu.be/MXkYb-2MAoo?list=PLw03yoxefBVGYFnLZO-saICoq1rT2oIBd)
 
 [Part 1: Introduction: Goals (2:03)](https://youtu.be/MXkYb-2MAoo)
 
