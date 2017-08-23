@@ -71,6 +71,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments and Special Thanks
 
+A sincere, special thanks to all the sources listed below. They changed the way I think about and write code. They trained me to have a principled way of thinking.
+
 These two sources teach systematic development, data-driven programming and abstraction using Type Comments:
 
 
